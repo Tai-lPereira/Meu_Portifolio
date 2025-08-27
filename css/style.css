@@ -1,0 +1,60 @@
+header {
+  background-image: url('../bc.png');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  color: rgb(80, 0, 90);
+  padding: 2rem 1rem;
+  text-align: center;
+  font-family:'Fredoka', sans-serif;
+}
+
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  color: rgb(88, 7, 78);
+  background-image: url('../bc.png');
+  opacity: 2; /* Ajuste a opacidade conforme necessário */
+ 
+}
+
+nav a {
+  margin: 0 15px;
+  color: rgb(114, 91, 91);
+  text-decoration: none;
+  font-family:'Fredoka', sans-serif;
+}
+
+.container {
+  padding: 2rem;
+  max-width: 1000px;
+  margin: auto;
+  font-family:'Fredoka', sans-serif;
+}
+
+section {
+  margin-bottom: 3rem;
+  text-align: center;
+}
+
+.projeto {
+  background-color: rgba(228, 227, 240, 0.541);
+  padding: 1rem;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(59, 55, 55, 0.1);
+  margin-bottom: 1.5rem;
+
+}
+
+footer {
+  color: rgb(44, 160, 96);
+  text-align: center;
+  padding: 1rem;
+  bottom: 0;
+  width: 100%;
+  
+}
+
+
+
+  
